@@ -4,7 +4,7 @@ Please fork this repo to your own github account and proceed to build out your s
 
 
 ### Overview
-The goal of this test is to build out a single page application capable of display the current exchange rates for a variety of cryptocurrencies. The requirements are relatively straightforward but please do ask for clarifications if required. 
+The goal of this test is to build out a single page application capable of displaying the current exchange rates for a variety of cryptocurrencies. The requirements are relatively straightforward but please do ask for clarifications if required. 
 
 
 ![Wireframe](cryptocoinmarket.png) 
@@ -44,3 +44,12 @@ For bonus points, the following nice-to-haves will also be looked for
 
 ### Notes:
 Please use Coinmarketcap.com's [json api](https://coinmarketcap.com/api/) to supply the data for your application. 
+
+
+## Second Phase Developer Test
+
+Please provide a solution to protect this application from network problems should coinmarketcap.com become unavailable. 
+
+Ideally, this will include the ability to produce the last seen results as well as flag up a warning to the user that the quoted rates may be out of date. 
+
+Your solution to this second phase test may be expressed either in code or as a design document describing the solution and how it would be implemented. 
